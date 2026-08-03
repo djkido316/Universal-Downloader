@@ -14,13 +14,13 @@ A lightweight Bash script for Linux that automatically detects the type of URL y
 
 ## Supported URLs
 
-* 📦 Flathub
-* 🎥 YouTube
-* 📷 Instagram
-* 🐙 GitHub
-* 🧲 Magnet links
-* 📄 `.torrent` files
-* 🌐 Direct Links
+* Flathub
+* YouTube
+* Instagram
+* GitHub
+* Magnet links
+* `.torrent` files
+* Direct Links
 
 ## Dependencies
 
