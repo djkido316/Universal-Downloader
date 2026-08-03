@@ -18,8 +18,8 @@ A lightweight Bash script for Linux that automatically detects the type of URL y
 * YouTube
 * Instagram
 * GitHub
-* Magnet links
-* `.torrent` files
+* Magnet
+* Torrents 
 * Direct Links
 
 ## Dependencies
@@ -28,9 +28,6 @@ Required:
 
 * `bash`
 * `wget`
-
-Optional (depending on what you use):
-
 * `flatpak`
 * `yt-dlp`
 * `git`
