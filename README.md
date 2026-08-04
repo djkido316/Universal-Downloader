@@ -16,7 +16,6 @@ A lightweight Bash script for Linux that automatically detects the type of URL y
 
 * Flathub
 * YouTube
-* Instagram
 * GitHub
 * Magnet
 * Torrents 
